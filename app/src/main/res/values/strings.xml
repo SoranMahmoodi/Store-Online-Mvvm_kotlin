@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Store Online(mvvm kotlin)</string>
+    <string name="home">خانه</string>
+    <string name="lists">دسته بندی ها</string>
+    <string name="search">جستجو</string>
+    <string name="basket">سبد خرید</string>
+    <string name="profile">پروفایل</string>
+</resources>
